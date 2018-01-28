@@ -3,8 +3,8 @@
 ## Balances
 - **Arkovia**: M1,975
 - **Empire of Cyaneus**: M2,020
-- **Empire of Sartontia**: M2,000
-- **Dolusian Unitary Republic**: M2,000
+- **Empire of Sartontia**: M1,990
+- **Dolusian Unitary Republic**: M2,010
 - **Federation of Shellford**: M2,000
 - **Monarch of Partashed**: M2,000
 - **Republic of Luxia**: M2,005
@@ -15,7 +15,8 @@
 
 ## Transaction History
 
-- **Arkovia to Cyaneus** | +M35 (01/29/2018
+- **Sartontia to Dolusia** | +M10 (01/28/2018)
+- **Arkovia to Cyaneus** | +M35 (01/29/2018)
 - **Cyaneus to Luxia** | +M5 (01/27/2018)
 - **To All Founding Nations** | +M2,000 (01/27/2018)
   - Arkovia
