@@ -15,7 +15,7 @@
 
 ## Transaction History
 
-- **New Vinland** | M2 (01/30/2018)
+- **New Vinland to Dolusia** | M2 (01/30/2018)
 - **Luxia to Cyaneus** | M5 (01/28/2018)
 - **Sartontia to Dolusia** | M10 (01/28/2018)
 - **Arkovia to Cyaneus** | M35 (01/29/2018)
