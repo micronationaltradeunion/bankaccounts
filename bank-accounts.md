@@ -5,16 +5,17 @@
 - **Empire of Cyaneus**: M2,025
 - **Empire of Sartontia**: M1,990
 - **Dolusian Unitary Republic**: M2,007
-- **Federation of Shellford**: M2,000
+- **Federation of Shellford**: M1,997
 - **Monarch of Partashed**: M2,000
 - **Republic of Luxia**: M2,000
-- **Asmaria**: M2,000
+- **Asmaria**: M2,003
 - **TGUR**: M2,000
 - **New Vinland**: M1,998
 - **Kingdom of Galimaine**: M2,000
 
 ## Transaction History
 
+- **Shellford to Asmaria** | M3 (01/31/2018)
 - **New Vinland to Dolusia** | M2 (01/30/2018)
 - **Luxia to Cyaneus** | M5 (01/28/2018)
 - **Sartontia to Dolusia** | M10 (01/28/2018)
