@@ -4,13 +4,13 @@
 - **Arkovia**: M1,975
 - **Empire of Cyaneus**: M2,025
 - **Empire of Sartontia**: M1,990
-- **Dolusian Unitary Republic**: M2,008
+- **Dolusian Unitary Republic**: M2,007
 - **Federation of Shellford**: M2,000
 - **Monarch of Partashed**: M2,000
 - **Republic of Luxia**: M2,000
 - **Asmaria**: M2,000
 - **TGUR**: M2,000
-- **New Vinland**: M2,002
+- **New Vinland**: M1,998
 - **Kingdom of Galimaine**: M2,000
 
 ## Transaction History
